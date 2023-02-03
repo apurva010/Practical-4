@@ -1,16 +1,14 @@
-# practical4
+# Practical-4 Submission
 
-A new Flutter project.
 
-## Getting Started
+## Implement Sign up and Sign in screen
 
-This project is a starting point for a Flutter application.
+### There are two folders one for views or screen and second one is for constants.
+### main.dart in which I have created routes for routing. and use theme property to implement theme for entire app.
+### sign_in.dart have stateless widget in which I have added signinform and made that stateful same for signup.
 
-A few resources to get you started if this is your first Flutter project:
+## Validation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### validation for password and retype password done and all fields must be filled.
+### email format validation not implemented.
+### I have use mostly concepts that has been learned and explored till now.
